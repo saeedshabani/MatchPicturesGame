@@ -4,7 +4,7 @@
     xmlns="http://www.w3.org/ns/widgets" 
     xmlns:gap="http://phonegap.com/ns/1.0"
     versionCode = "2100000000"
-    android-versionCode="13"
+    android-versionCode="28.1.5"
     xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Match Pictures</name>
     <description>
