@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.matchPictures.game" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>com.matchPictures</name>
+    <name>Match Pictures</name>
     <description>
         Match Pictures Game
     </description>
@@ -9,4 +9,5 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <icon src="res/icon/android/xhdpi/icon.png" platform="android" width="96" height="96" density="xhdpi" />
 </widget>
